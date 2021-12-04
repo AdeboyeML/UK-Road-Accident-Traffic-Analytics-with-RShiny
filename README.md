@@ -23,20 +23,16 @@ This is an Analytics project that give insights into UK Road accident &amp; Traf
 
 <p float="left">
   <img src="./uk_shape_file/uk_reg_traffic_animation2.gif" width="400">
-  <img src="./uk_shape_file/uk_reg_traffic_animation2.gif" width="400">
-  <img src="./uk_shape_file/uk_reg_traffic_animation2.gif" width="400">
+  <img src="./uk_shape_file/uk_traffic_lad_animation2.gif" width="400">
+  <img src="./uk_shape_file/uk_traffic_lond_animation.gif" width="400">
 </p>
 
 
-![lad_traffic_animation][image1]
-
-![london_traffic_animation][image2]
-
 #### - UK Road Accidents Map Gifs
 
-![region_accident_animation][image4]
+<p float="left">
+  <img src="./uk_shape_file/uk_reg_acc_animation2.gif" width="400">
+  <img src="./uk_shape_file/uk_lad_acc_animation.gif" width="400">
+  <img src="./uk_shape_file/uk_lond_acc_animation2.gif" width="400">
+</p>
 
-![lad_accident_animation][image5]
-
-
-![london_accident_animation][image6]
