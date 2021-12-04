@@ -8,7 +8,11 @@
 [image6]: ./uk_shape_file/uk_lond_acc_animation2.gif "london_accident_animation"
 
 # UK-Road-Accident-Traffic-Analytics-with-RShiny
-This is an Analytics project that give insights into UK Road accident &amp; Traffic data using RShiny Dashboard
+This is an Analytics project that give insights into UK Road accident &amp; Traffic data using RShiny Dashboard.
+
+
+This project will give detailed insights into United Kingdom (UK) long-term road traffic and accident trends between 2000 - 2018  based on estimated Annual average daily flows (AADFs) and volume of traffic (i.e. miles driven per year for each vehicle on a particular road) for vehicle types, road networks/types, geographical regions, and highway authorities in UK.
+
 
 
 ### - N.B: It takes about 8 - 10 minutes for the RShiny Dashboard to load, because of the size of the maps rendered
