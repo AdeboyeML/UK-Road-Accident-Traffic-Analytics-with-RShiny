@@ -21,7 +21,7 @@ This project will give detailed insights into United Kingdom (UK) long-term road
 
 
 
-### - Tmap Generated maps 
+### - Tmap Generated GIF maps 
 
 #### - Example code
 ```
