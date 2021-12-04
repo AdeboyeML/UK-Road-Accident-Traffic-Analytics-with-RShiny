@@ -17,12 +17,23 @@ This is an Analytics project that give insights into UK Road accident &amp; Traf
 
 
 
-## Tmap Generated maps 
+### - Tmap Generated maps 
 
-### - UK Road Traffic Gifs
+#### - UK Road Traffics Map Gifs
 
 
 ![region_traffic_animation][image3]
 
 
 ![lad_traffic_animation][image1]
+
+![london_traffic_animation][image2]
+
+#### - UK Road Accidents Map Gifs
+
+![region_accident_animation][image4]
+
+![lad_accident_animation][image5]
+
+
+![london_accident_animation][image6]
