@@ -22,7 +22,7 @@ This is an Analytics project that give insights into UK Road accident &amp; Traf
 #### - UK Road Traffics Map Gifs
 
 
-<img src="./uk_shape_file/uk_reg_traffic_animation2.gif" width="200">
+<img src="./uk_shape_file/uk_reg_traffic_animation2.gif" width="400">
 
 
 ![lad_traffic_animation][image1]
